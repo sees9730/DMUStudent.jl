@@ -1,7 +1,7 @@
 name = "DMUStudent"
 uuid = "a176809d-bc77-421e-b60b-7b215d415e6e"
 authors = ["Zachary Sunberg <sunbergzach@gmail.com>"]
-version = "5.0.0"
+version = "5.0.1"
 
 [deps]
 Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
@@ -42,7 +42,7 @@ IntervalSets = "0.5, 0.6, 0.7"
 JSON = "0.21"
 Nettle = "0.5, 1"
 POMDPModels = "0.4"
-POMDPs = "0.9"
+POMDPs = "0.9, 1"
 Parameters = "0.12"
 ProgressMeter = "1.4"
 StaticArrays = "1"
